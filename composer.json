@@ -1,0 +1,16 @@
+{
+    "name": "aleksey/hexlet-php",
+    "description": "bim",
+    "autoload": {
+        "psr-4": {
+            "Aleksey\\HexletPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Aleksey",
+            "email": "haljavij@yandex.ru"
+        }
+    ],
+    "require": {}
+}
